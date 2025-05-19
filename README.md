@@ -2,8 +2,8 @@
 equipo LA GESTAPO
 
 Team:
-Jessi Alain
-Hugo Misael
-Elvis Vergara
-Jesus Eduardo 
+Jessie Alain,
+Hugo Misael,
+Elvis Vergara,
+Jesus Eduardo,
 Angel Michel 
