@@ -29,7 +29,7 @@ def registrar_usuario():
     
     usuario = input("Cree su nombre de usuario (sin símbolos ni espacios): ")
     if not validar_usuario(usuario):
-        print("❌ El usuario solo debe contener letras y números.")
+        print("❌ El usuario no debe contener ni simbolos ni espacios.")
         return
     
     if usuario in usuarios_registrados:
