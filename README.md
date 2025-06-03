@@ -1,5 +1,5 @@
 # ISOFT5_SA
-equipo LA GESTAPO
+Equipo LA GESTAPO
 
 Team:
 Jessie Alain,
