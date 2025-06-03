@@ -7,5 +7,3 @@ Hugo Misael,
 Elvis Vergara,
 Jesus Eduardo,
 Angel Michel 
-
-/// Reporte del primer laboratorio ///
