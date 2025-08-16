@@ -33,12 +33,18 @@
 3. **pure de papa** - $60 MXN.  
 
 ## Flujo de la App  
-1. **Registro**: Email + contraseña (autenticación con JWT en Python).  
+1. **Registro**: Usuario + Email + contraseña (autenticación con JWT en Python).  
+   -Usuarios con caracteres alfanumericos.
+   -Verificacion de correso validos.
+   -Mensajes de casos exitosos para notificar al usuario que ya esta registrado o si sucedio alguna falla.
 2. **Pedidos**:  
    - Usuario selecciona productos.  
    - Confirma dirección (guardada en PostgreSQL).  
    - Pago simulado ("efectivo al entregar").  
 3. **Admin**: Vista para gestionar pedidos (desde la DB).  
-
+4. **Funcion de grafos**:
+   -Breve descripcion del sistema de manera visual de todo el proceso para registrarse o iniciar sesion dentro del sistema.
+   -Otro grafo mas adetallado especificando los diferentes tipos y sus diferencias, junto con acceder las descripciones de los productos.
+   
 ## Status ##
 revision pendiente
