@@ -65,5 +65,6 @@ def menu_principal():
             print("❌ Opción no válida. Intente de nuevo.")
 
 # Ejecutar el sistema
+# muy bien
 if __name__ == "__main__":
     menu_principal()
